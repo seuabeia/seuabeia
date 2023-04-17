@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seuabeia.github.io/seuabeia/sitemap.xml
